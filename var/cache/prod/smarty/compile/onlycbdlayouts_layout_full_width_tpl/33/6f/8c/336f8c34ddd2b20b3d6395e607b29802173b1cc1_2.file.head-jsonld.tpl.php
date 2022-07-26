@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-26 14:12:12
+/* Smarty version 3.1.43, created on 2022-07-26 14:40:35
   from '/Applications/MAMP/htdocs/onlycbd.fr/themes/onlycbd/templates/_partials/microdata/head-jsonld.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62dfda1c6460b4_62794351',
+  'unifunc' => 'content_62dfe0c31c93e5_65485694',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62dfda1c6460b4_62794351 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62dfe0c31c93e5_65485694 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="application/ld+json">
   {

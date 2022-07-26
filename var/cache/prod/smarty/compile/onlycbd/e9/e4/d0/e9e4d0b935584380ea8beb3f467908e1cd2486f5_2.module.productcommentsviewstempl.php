@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-26 14:12:11
+/* Smarty version 3.1.43, created on 2022-07-26 14:40:33
   from 'module:productcommentsviewstempl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62dfda1b4c4463_74960245',
+  'unifunc' => 'content_62dfe0c1c31286_99927514',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62dfda1b4c4463_74960245 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62dfe0c1c31286_99927514 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 <div class="product-list-reviews" data-id="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['id'], ENT_QUOTES, 'UTF-8');?>

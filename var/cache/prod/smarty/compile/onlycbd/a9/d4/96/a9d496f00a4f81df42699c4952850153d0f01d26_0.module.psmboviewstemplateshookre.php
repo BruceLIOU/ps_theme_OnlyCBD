@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-26 10:33:54
+/* Smarty version 3.1.43, created on 2022-07-26 14:36:50
   from 'module:psmboviewstemplateshookre' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62dfa6f24d1720_17374989',
+  'unifunc' => 'content_62dfdfe2727e42_73480505',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62dfa6f24d1720_17374989 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62dfdfe2727e42_73480505 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
 >
   if (undefined !== mbo) {

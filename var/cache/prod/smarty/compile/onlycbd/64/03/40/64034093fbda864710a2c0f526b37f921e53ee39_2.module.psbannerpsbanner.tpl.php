@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-26 14:12:11
+/* Smarty version 3.1.43, created on 2022-07-26 14:40:33
   from 'module:psbannerpsbanner.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62dfda1b50c8e5_29070412',
+  'unifunc' => 'content_62dfe0c1c44984_38595178',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62dfda1b50c8e5_29070412 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62dfe0c1c44984_38595178 (Smarty_Internal_Template $_smarty_tpl) {
 ?><a class="banner" href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['banner_link']->value, ENT_QUOTES, 'UTF-8');?>
 " title="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['banner_desc']->value, ENT_QUOTES, 'UTF-8');?>
 ">

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-26 14:12:12
+/* Smarty version 3.1.43, created on 2022-07-26 14:40:35
   from '/Applications/MAMP/htdocs/onlycbd.fr/themes/onlycbd/templates/_partials/header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62dfda1c7b0782_20362311',
+  'unifunc' => 'content_62dfe0c32e9d55_68192555',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'ec3a6d0a34b14835e85270a60a7137451d2fe01b' => 
     array (
       0 => '/Applications/MAMP/htdocs/onlycbd.fr/themes/onlycbd/templates/_partials/header.tpl',
-      1 => 1658834813,
+      1 => 1658838751,
       2 => 'file',
     ),
   ),
@@ -20,28 +20,28 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62dfda1c7b0782_20362311 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62dfe0c32e9d55_68192555 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_61804134862dfda1c7534f6_49994359', 'header_banner');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_125691092262dfe0c32b8be4_22310450', 'header_banner');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_196620146262dfda1c757304_00504887', 'header_nav');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_184479206262dfe0c32bb947_44436014', 'header_nav');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_153630244962dfda1c759908_60152927', 'header_top');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_169503547862dfe0c32beb88_34097565', 'header_top');
 }
 /* {block 'header_banner'} */
-class Block_61804134862dfda1c7534f6_49994359 extends Smarty_Internal_Block
+class Block_125691092262dfe0c32b8be4_22310450 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'header_banner' => 
   array (
-    0 => 'Block_61804134862dfda1c7534f6_49994359',
+    0 => 'Block_125691092262dfe0c32b8be4_22310450',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -56,12 +56,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'header_banner'} */
 /* {block 'header_nav'} */
-class Block_196620146262dfda1c757304_00504887 extends Smarty_Internal_Block
+class Block_184479206262dfe0c32bb947_44436014 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'header_nav' => 
   array (
-    0 => 'Block_196620146262dfda1c757304_00504887',
+    0 => 'Block_184479206262dfe0c32bb947_44436014',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -93,12 +93,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'header_nav'} */
 /* {block 'header_top'} */
-class Block_153630244962dfda1c759908_60152927 extends Smarty_Internal_Block
+class Block_169503547862dfe0c32beb88_34097565 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'header_top' => 
   array (
-    0 => 'Block_153630244962dfda1c759908_60152927',
+    0 => 'Block_169503547862dfe0c32beb88_34097565',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -120,7 +120,7 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
             <?php }?>
           <?php }?>
         </div>
-        <div class="col-lg-3 col-md-3 col-xl-3 col-sm-12 headerFilter">
+        <div class="col-lg-2 col-md-2 col-xl-2 col-sm-12 headerFilter">
           <div class="containerLinkCBDCateg">
             <span id="headerLinkCDBCateg">
               <?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'CBD Par Type','d'=>'Shop.Theme.Global'),$_smarty_tpl ) );?>
@@ -141,7 +141,7 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 
         </div>
 
-        <div class="header-top-left col-lg-7 col-md-7 col-xl-7 col-sm-12 position-static">
+        <div class="header-top-left col-lg-8 col-md-8 col-xl-8 col-sm-12 position-static">
           <?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['hook'][0], array( array('h'=>'displayTop'),$_smarty_tpl ) );?>
 
         </div>

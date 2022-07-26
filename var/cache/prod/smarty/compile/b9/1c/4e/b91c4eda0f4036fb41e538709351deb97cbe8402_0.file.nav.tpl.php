@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-25 20:40:19
+/* Smarty version 3.1.43, created on 2022-07-26 14:36:50
   from '/Applications/MAMP/htdocs/onlycbd.fr/admin456gk9jee/themes/default/template/nav.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62dee393348ad8_86974509',
+  'unifunc' => 'content_62dfdfe28d8113_43897995',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62dee393348ad8_86974509 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62dfdfe28d8113_43897995 (Smarty_Internal_Template $_smarty_tpl) {
 ?><nav class="nav-bar" role="navigation" id="nav-sidebar">
 	<span class="menu-collapse" data-toggle-url="<?php echo $_smarty_tpl->tpl_vars['toggle_navigation_url']->value;?>
 ">

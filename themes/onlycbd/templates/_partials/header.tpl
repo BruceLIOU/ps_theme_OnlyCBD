@@ -66,7 +66,7 @@
             {/if}
           {/if}
         </div>
-        <div class="col-lg-3 col-md-3 col-xl-3 col-sm-12 headerFilter">
+        <div class="col-lg-2 col-md-2 col-xl-2 col-sm-12 headerFilter">
           <div class="containerLinkCBDCateg">
             <span id="headerLinkCDBCateg">
               {l s='CBD Par Type' d='Shop.Theme.Global'}
@@ -85,7 +85,7 @@
 
         </div>
 
-        <div class="header-top-left col-lg-7 col-md-7 col-xl-7 col-sm-12 position-static">
+        <div class="header-top-left col-lg-8 col-md-8 col-xl-8 col-sm-12 position-static">
           {hook h='displayTop'}
         </div>
 

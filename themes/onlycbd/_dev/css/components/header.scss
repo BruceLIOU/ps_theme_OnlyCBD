@@ -197,7 +197,6 @@
         display: flex;
         align-items: center;
         width: 100%;
-        margin: 0 5rem;
       }
     }
 
@@ -235,14 +234,14 @@
     .headerPhone {
       display: flex;
       justify-content: center;
-      align-items: center;
       gap: 4px;
       margin: 0 20px;
 
       a {
-        font-size: 1rem;
+        font-size: 1.5rem;
         display: flex;
         flex-wrap: wrap;
+        align-items: center;
     }
 
       .headerIconPhone {
