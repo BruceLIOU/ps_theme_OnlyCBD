@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-26 14:40:33
+/* Smarty version 3.1.43, created on 2022-07-26 15:43:50
   from 'module:psnewproductsviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62dfe0c1b07cf8_29624433',
+  'unifunc' => 'content_62dfef96c9c190_64665685',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4a8df44403a47041b050fac755e17268c2a7c3e7' => 
     array (
       0 => 'module:psnewproductsviewstemplat',
-      1 => 1658830119,
+      1 => 1658840518,
       2 => 'module',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/productlist.tpl' => 1,
   ),
 ),false)) {
-function content_62dfe0c1b07cf8_29624433 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62dfef96c9c190_64665685 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section class="featured-products clearfix mt-3">
   <h2 class="h2 products-section-title text-uppercase">

@@ -76,7 +76,14 @@
 
     .customContainer{
       padding: 0 3rem;
+      .bloc-social {
+        li:hover{
+          background-color:transparent;
+          opacity: 0.8;
+        }
+      }
     }
+
   }
   & p {
     color:white!important;
@@ -116,6 +123,10 @@
    #contact-infos a{
     color:$yellow;
    }
+   .block-social ul li:hover {
+    background-color: $gray-lighter;
+    color: $yellow;
+}
 }
 
 .block-contact {
