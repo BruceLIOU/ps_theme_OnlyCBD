@@ -225,3 +225,4 @@ nb-configuration.xml
 .settings/
 .externalToolBuilders/
 src/Adapter/Upload/UploadQuotaConfiguration.php
+themes/onlycbd/.DS_Store
