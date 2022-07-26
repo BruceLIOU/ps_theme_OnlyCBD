@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-26 14:09:06
+/* Smarty version 3.1.43, created on 2022-07-26 14:12:12
   from '/Applications/MAMP/htdocs/onlycbd.fr/modules/brlcustomblocks/views/templates/front/displayCustomBlocks.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62dfd9623c81c3_15056200',
+  'unifunc' => 'content_62dfda1c7c6669_78513591',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62dfd9623c81c3_15056200 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62dfda1c7c6669_78513591 (Smarty_Internal_Template $_smarty_tpl) {
 echo $_smarty_tpl->tpl_vars['content_text']->value;
 }
 }
