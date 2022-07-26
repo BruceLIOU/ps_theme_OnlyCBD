@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/Applications/MAMP/htdocs/onlycbd.fr/themes/onlycbd/dependencies/modules/brlcustomblocks/views/templates/admin/brlheader.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="bd64fab67ac875c9af28d6d6491d871c">
+        <source>readme_en</source>
+        <target>readme_en</target>
+        <note>Line: 30</note>
+      </trans-unit>
+      <trans-unit id="c544f3340b998e38b2c662703d362283">
+        <source>READ ME</source>
+        <target>READ ME</target>
+        <note>Line: 31</note>
+      </trans-unit>
+      <trans-unit id="931b59ca8886f44cb79a105317255d51">
+        <source>https://addons.prestashop.com/en/2_community-developer?contributor=217031</source>
+        <target>https://addons.prestashop.com/en/2_community-developer?contributor=217031</target>
+        <note>Line: 36</note>
+      </trans-unit>
+      <trans-unit id="71fd5a6cebfbc8d60a3e19adf5295699">
+        <source>Our modules</source>
+        <target>Our modules</target>
+        <note>Line: 42</note>
+      </trans-unit>
+      <trans-unit id="c7bc3fddddb62d5b656adc30cea77a55">
+        <source>Presentation</source>
+        <target>Presentation</target>
+        <note>Line: 49</note>
+      </trans-unit>
+      <trans-unit id="932c3bde9d594574b8b29d36524ccb2d">
+        <source>This module allows you to create your own blocks and place them wherever you want.</source>
+        <target>This module allows you to create your own blocks and place them wherever you want.</target>
+        <note>Line: 51</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

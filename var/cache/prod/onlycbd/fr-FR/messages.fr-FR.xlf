@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/Applications/MAMP/htdocs/onlycbd.fr/themes/onlycbd/templates/catalog/product.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="7e5713f54d3b68f0bf8ba514d4cd88d0">
+        <source>commentaire</source>
+        <target>commentaire</target>
+        <note>Line: 82</note>
+      </trans-unit>
+      <trans-unit id="a3bed44b697b554ac87c8a9a869b1488">
+        <source>commentaires</source>
+        <target>commentaires</target>
+        <note>Line: 84</note>
+      </trans-unit>
+      <trans-unit id="d8982a0e7d4a432f41fb24cd4a5b85d9">
+        <source>En Stock</source>
+        <target>En Stock</target>
+        <note>Line: 92</note>
+      </trans-unit>
+      <trans-unit id="1003c8aefe286f4ec65f59f40f641e8a">
+        <source>Indisponible</source>
+        <target>Indisponible</target>
+        <note>Line: 99</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

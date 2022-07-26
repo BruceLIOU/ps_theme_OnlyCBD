@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/Applications/MAMP/htdocs/onlycbd.fr/themes/onlycbd/dependencies/modules/brlcustomblocks/views/templates/admin/brlfooter.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="b1c1d84a65180d5912b2dee38a48d6b5">
+        <source>Module version</source>
+        <target>Module version</target>
+        <note>Line: 39</note>
+      </trans-unit>
+      <trans-unit id="2a43f8406eb6c10f3f76a60f064e67fb">
+        <source>Prestashop version</source>
+        <target>Prestashop version</target>
+        <note>Line: 40</note>
+      </trans-unit>
+      <trans-unit id="fa374422dcbc5f017b5ecbc93355e02e">
+        <source>PHP version</source>
+        <target>PHP version</target>
+        <note>Line: 41</note>
+      </trans-unit>
+      <trans-unit id="99c7f3882b30cadd57da10ca69b61737">
+        <source>https://addons.prestashop.com/en/contact-us?id_product=</source>
+        <target>https://addons.prestashop.com/en/contact-us?id_product=</target>
+        <note>Line: 51</note>
+      </trans-unit>
+      <trans-unit id="08249a549e9e076be1e7912e45069a18">
+        <source>Contact the after-sales service</source>
+        <target>Contact the after-sales service</target>
+        <note>Line: 51</note>
+      </trans-unit>
+      <trans-unit id="b9aca50a3b39465a91ff3df678c21fe9">
+        <source>Add-on</source>
+        <target>Add-on</target>
+        <note>Line: 62</note>
+      </trans-unit>
+      <trans-unit id="2a96b6caba5be1920010ed596a0cc274">
+        <source>With our module</source>
+        <target>With our module</target>
+        <note>Line: 64</note>
+      </trans-unit>
+      <trans-unit id="9e66fc0f10b83ffd10b76013f01cdacd">
+        <source>https://addons.prestashop.com/en/page-customization/42174-custom-css-and-js.html</source>
+        <target>https://addons.prestashop.com/en/page-customization/42174-custom-css-and-js.html</target>
+        <note>Line: 64</note>
+      </trans-unit>
+      <trans-unit id="a6a6ea6e79a04bfb8a70bf76a0de508d">
+        <source>Custom CSS and JS</source>
+        <target>Custom CSS and JS</target>
+        <note>Line: 64</note>
+      </trans-unit>
+      <trans-unit id="efa37b4588ef00b2025f513e8f27c244">
+        <source>, you can add custom CSS styles to your blocks.</source>
+        <target>, you can add custom CSS styles to your blocks.</target>
+        <note>Line: 64</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

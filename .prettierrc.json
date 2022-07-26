@@ -1,0 +1,9 @@
+{
+    "semi": false,
+    "overrides": [
+      {
+        "files": "*.html.tpl",
+        "options": { "parser": "html" },
+      }
+    ]
+  }

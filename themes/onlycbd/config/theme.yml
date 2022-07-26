@@ -1,0 +1,101 @@
+parent: classic
+name: onlycbd
+display_name: OnlyCBD
+display-name: Thème enfant du thème classic pour Only CBD
+version: 1.0.0
+author:
+  name: "Bruce LIOU"
+  email: "b.liou@orientex.fr"
+  url: "https://orientexpress.fr"
+assets:
+  use_parent_assets: false
+
+global_settings:
+  configuration:
+    PS_IMAGE_QUALITY: png
+  modules:
+   to_enable:
+     - ps_linklist
+     - brlcustomblocks
+     - productcomments
+     - hhproductcomments
+     - ps_banner
+     - ps_customtext
+   to_disable:
+     - blockwishlist
+     - ps_sharebuttons
+     - blockreassurance
+
+  hooks:
+    modules_to_hook:
+      displayNavFullWidth:
+        - ps_mainmenu
+      displayNav1:
+        - brlcustomblocks
+      displayNav2:
+        - ps_languageselector
+        - ps_currencyselector
+        - ps_customersignin
+        - ps_shoppingcart
+      displayTop:
+        - ps_searchbar
+        - brlcustomblocks
+        - ps_customersignin
+        - ps_shoppingcart
+      displayHome:
+        - ps_imageslider
+        - ps_customtext
+        - brlcustomblocks
+        - ps_newproducts
+        - ps_banner
+      displayFooterBefore:
+        - ps_emailsubscription
+      displayFooter:
+        - ps_linklist
+        - ps_customeraccountlinks
+        - ps_contactinfo
+      displaySearch:
+        - ps_searchbar
+      displayOrderConfirmation2:
+        - ps_featuredproducts
+      displayCrossSellingShoppingCart:
+        - ps_featuredproducts
+      displayHookCustomBlocks:
+        - brlcustomblocks
+
+  image_types:
+    cart_default:
+      width: 125
+      height: 125
+      scope: [products]
+    small_default:
+      width: 98
+      height: 98
+      scope: [products, categories, manufacturers, suppliers]
+    medium_default:
+      width: 452
+      height: 452
+      scope: [products, manufacturers, suppliers]
+    home_default:
+      width: 250
+      height: 250
+      scope: [products]
+    large_default:
+      width: 800
+      height: 800
+      scope: [products, manufacturers, suppliers]
+    category_default:
+      width: 141
+      height: 180
+      scope: [categories]
+    stores_default:
+      width: 170
+      height: 115
+      scope: [stores]
+
+theme_settings:
+  default_layout: layout-full-width
+
+dependencies:
+  modules:
+    - brlcustomblocks

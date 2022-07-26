@@ -1,0 +1,86 @@
+.displayHookCustomBlocks_GridImages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100vw;
+    max-width: 100%;
+    margin-top: -25px;
+
+    .flex-items {
+        display: flex;
+        width: 50%;
+        & img {
+            width: 100%;
+        }
+    }
+
+    .otherImgCustom {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        // column-gap: 50px;
+        width: 50%;
+        margin: 8rem;
+        column-gap: 2rem;
+        & img {
+            width: 100%;
+        }
+    }
+}
+
+h2.customTitle {
+    text-align: center;
+    text-transform: uppercase;
+    border: 3px solid black;
+    width: fit-content;
+    padding: 1rem;
+    font-weight: 900;
+    font-size: 1.5vw;
+    margin: 0 auto;
+}
+.tableCustomMarques {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    gap: 3rem;
+    .linkCustom {
+        background: url(../img/backgroundTitle.png) no-repeat;
+        background-size: 100% 50%;
+        background-position-y: bottom;
+        padding-left: 8px;
+        padding-right: 8px;
+      
+        a {
+          text-transform: uppercase;
+          color: black;
+          font-size: 1.5rem;
+          font-weight: 900;      
+      }
+      }
+}
+
+// h2.h2CustomBrands {
+//     display: flex;
+//     justify-content: center;
+//     border: 1px solid black;
+//     margin: 0 auto;
+//     padding: 0.5rem;
+//     width: 20%;
+//     column-gap: 4px;
+//     font-weight: 900;
+//     font-size: 1.5rem;
+//     .titleBlockYellow2 {
+//         padding: 2px 4px 10px;
+//         margin-bottom: 4px;
+//         z-index: -1;
+//         position: relative;
+//         background: url("/img/backgroundTitle.png");
+//     }
+// }
+
+table td img{
+    width: 100%;
+}

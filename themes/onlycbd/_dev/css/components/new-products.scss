@@ -1,0 +1,62 @@
+section .featured-products {
+    background: url("/img/background-dechirure-page-produit.png") no-repeat;
+    background-size: 100% 100%;
+    padding: 8rem 0 8rem 0;
+
+    h2.h2.products-section-title.text-uppercase {
+        border: 2px solid black;
+        width: fit-content;
+        margin: 0 auto;
+        padding: 10px;
+        margin-bottom: 5rem;
+        font-weight: 900;
+        font-size: 2rem;
+    }
+
+    .btnContainer {
+        display: flex;
+        a.h4 {
+            border: 2px solid black;
+            text-transform: uppercase;
+            width: fit-content;
+            margin: 0 auto;
+            padding: 10px;
+            font-weight: 900;
+            font-size: 1.125rem;
+            
+            &:hover{
+                color: $gray-dark!important;
+
+            }
+        }
+    } 
+}
+.products {
+    row-gap: 2rem;
+
+    .productMiniatureContainer{
+        // background-color: $gray;
+        // background: url("/img/background_produit.png") no-repeat;
+        // background-size: 100% 90%;
+        // padding:20px;
+        position: relative;
+
+        .product-list-reviews {
+            position: relative;
+            top:0;
+            margin: 0 auto;
+            width: fit-content;
+            background: $gray-light;
+        }
+        
+        & ul > li.price{
+            color: black;
+            font-weight: 900;
+            font-size: 1.5rem;
+        }
+    }
+
+    .product-miniature .thumbnail-container {
+        // background: url("/img/background_produit.png");
+    }
+}
