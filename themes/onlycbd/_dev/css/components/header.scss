@@ -186,7 +186,6 @@
   }
 
   .header-top {
-    padding: 1.25rem 0;
 
     > .container-fluid {
       position: relative;
@@ -197,6 +196,7 @@
         display: flex;
         align-items: center;
         width: 100%;
+        height: 100px;
       }
     }
 
@@ -300,7 +300,6 @@
     justify-content: center;
     width: 100%;
     text-transform: uppercase;
-    margin-top: -1.25em;
     position: relative;
     & ul > li > a{
       font-family: "Montserrat", sans-serif;
@@ -308,7 +307,7 @@
   }
   .containerLinkCBDCateg, .containerLinkCDBBrands {
     position: relative;
-    height: 5rem;
+    height: 6rem;
     display: flex;
     align-items: center;
 }
