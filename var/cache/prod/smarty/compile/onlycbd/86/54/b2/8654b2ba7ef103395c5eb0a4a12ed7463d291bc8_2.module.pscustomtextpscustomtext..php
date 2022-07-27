@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-27 11:35:42
+/* Smarty version 3.1.43, created on 2022-07-27 14:28:29
   from 'module:pscustomtextpscustomtext.' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62e106ee973605_38732093',
+  'unifunc' => 'content_62e12f6d2c0881_31871821',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:_partials/categoryHome.tpl' => 1,
   ),
 ),false)) {
-function content_62e106ee973605_38732093 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62e12f6d2c0881_31871821 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
@@ -30,17 +30,17 @@ $_smarty_tpl->inheritance->init($_smarty_tpl, false);
   <?php echo $_smarty_tpl->tpl_vars['cms_infos']->value['text'];?>
 
   <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_52303485762e106ee9703c7_62247809', 'customCategory');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_122631474962e12f6d2be578_67822552', 'customCategory');
 ?>
 
 </div><?php }
 /* {block 'customCategory'} */
-class Block_52303485762e106ee9703c7_62247809 extends Smarty_Internal_Block
+class Block_122631474962e12f6d2be578_67822552 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'customCategory' => 
   array (
-    0 => 'Block_52303485762e106ee9703c7_62247809',
+    0 => 'Block_122631474962e12f6d2be578_67822552',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

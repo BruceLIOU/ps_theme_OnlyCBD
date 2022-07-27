@@ -53,31 +53,32 @@
       {* [1][/1] is for a HTML tag. *}
       <i class="material-icons miFooter">phone</i>
       {l s='Call us: [1]%phone%[/1]'
-                                                  sprintf=[
-                                                  '[1]' => '<p>',
-                                                  '[/1]' => '</p>',
-                                                  '%phone%' => $contact_infos.phone
-                                                  ]
-                                                  d='Shop.Theme.Global'
-                                                }
+               sprintf=[
+               '[1]' => '<p>',
+               '[/1]' => '</p>',
+               '%phone%' => $contact_infos.phone
+               ]
+               d='Shop.Theme.Global'
+                                                                }
     {/if}
     {if $contact_infos.fax}
       <br>
       {* [1][/1] is for a HTML tag. *}
       {l
-                                                  s='Fax: [1]%fax%[/1]'
-                                                  sprintf=[
-                                                    '[1]' => '<p>',
-                                                    '[/1]' => '</p>',
-                                                    '%fax%' => $contact_infos.fax
-                                                  ]
-                                                  d='Shop.Theme.Global'
-                                                }
+               s='Fax: [1]%fax%[/1]'
+               sprintf=[
+                 '[1]' => '<p>',
+                 '[/1]' => '</p>',
+                 '%fax%' => $contact_infos.fax
+               ]
+               d='Shop.Theme.Global'
+                                                                }
     {/if}
     {if $contact_infos.email && $display_email}
       <br>
       <i class="material-icons miFooter">email</i>
       <span class="hidden-sm-down">{l s='Email us:' d='Shop.Theme.Global'}</span>
+      <br>
       {mailto address=$contact_infos.email encode="javascript"}
     {/if}
   </div>
