@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-27 09:33:59
+/* Smarty version 3.1.43, created on 2022-07-27 09:53:12
   from '/Applications/MAMP/htdocs/onlycbd.fr/themes/onlycbd/templates/_partials/categoryHome.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62e0ea673c3b99_42659655',
+  'unifunc' => 'content_62e0eee8951fe5_41980731',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62e0ea673c3b99_42659655 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62e0eee8951fe5_41980731 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_assignInScope('childCategories', Category::getChildren(10,1,true,false));?>
 
 <div class="rowCustomText">
