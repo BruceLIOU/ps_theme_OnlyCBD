@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-26 18:32:52
+/* Smarty version 3.1.43, created on 2022-07-27 11:10:32
   from '/Applications/MAMP/htdocs/onlycbd.fr/admin456gk9jee/themes/new-theme/template/controllers/modules/login_addons.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62e01734f340f8_37486413',
+  'unifunc' => 'content_62e101087d08f3_09632849',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62e01734f340f8_37486413 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62e101087d08f3_09632849 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="modal-body">
 <?php if ($_smarty_tpl->tpl_vars['add_permission']->value == '1') {?>

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-07-26 18:32:53
+/* Smarty version 3.1.43, created on 2022-07-27 11:10:32
   from '/Applications/MAMP/htdocs/onlycbd.fr/modules/welcome/views/contents/end.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_62e01735078f40_28621937',
+  'unifunc' => 'content_62e101088457e4_24668975',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62e01735078f40_28621937 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62e101088457e4_24668975 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="onboarding-welcome" class="modal-body">
     <div class="col-12">
